@@ -1,9 +1,5 @@
 #clinic
-
-
-
-
-    made by parsa222
+ made by parsa222
             required modules:
             csv
             hashlib
