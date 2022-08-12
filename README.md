@@ -50,9 +50,9 @@ all patient users (u can also register yours):
         user(code melli): 1234
         password = 1234
 
-   mamad mamadi
-        user = 6789
-        password = mamad
+        mamad mamadi
+            user = 6789
+            password = mamad
 
     hassan hassani
         user = 4321
