@@ -68,9 +68,10 @@ doctor users (u can also add a doctor user by loggin in as admin):
      user = 0001
      pass = 0001
 -------------
-admin user :
-    user = admin
-    pass = admin
+    
+    admin user :
+        user = admin
+        pass = admin
 -----------------------
 
 dont forgot to report if u notice any bugs in the program
