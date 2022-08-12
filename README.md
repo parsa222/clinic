@@ -46,13 +46,13 @@ LIST OF USERS:
 
 all patient users (u can also register yours):
 
-   ali alizade
-    user(code melli): 1234
-    password = 1234
+    ali alizade
+        user(code melli): 1234
+        password = 1234
 
    mamad mamadi
-    user = 6789
-    password = mamad
+        user = 6789
+        password = mamad
 
     hassan hassani
         user = 4321
