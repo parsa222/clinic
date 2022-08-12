@@ -1,10 +1,14 @@
 #clinic
+
+
+
+
     made by parsa222
-    required modules:
-    csv
-    hashlib
-    pandas
-    winsound
+            required modules:
+            csv
+            hashlib
+            pandas
+            winsound
 
 
 most of the modules are already installed by default
