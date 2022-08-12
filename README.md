@@ -1,5 +1,14 @@
 #clinic
+
+
+
+
+
  made by parsa222
+ 
+ 
+ 
+ 
             required modules:
             csv
             hashlib
@@ -9,10 +18,16 @@
 
 most of the modules are already installed by default
 if its not installed
+
+
+
+
 try typing
     pip install <module name>
     such as:
-    pip install pandas
+ 
+ 
+          pip install pandas
 in the command prompt
 
 instruction:
